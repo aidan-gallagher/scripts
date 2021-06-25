@@ -4,11 +4,15 @@ import subprocess
 from fabric import Connection
 from invoke import Responder
 import glob
+from os.path import basename
+import os
 
 # IP address of the VM
-IP_ADDR = "192.168.252.239"
-# Can't use a tilde in path name (https://github.com/fabric/fabric/issues/323)
-BUILDDIR = "/tmp/buildDir"
+IP_ADDR = "192.168.252.50"
+
+# Can't use a tilde in path name so store debs in /tmp rather than $HOME (https://github.com/fabric/fabric/issues/323)
+project = basename(os.getcwd())
+builddir = "/tmp/buildDir/" + project
 
 # Used to enter root password on remote system when prompted to
 sudopass = Responder(
@@ -17,7 +21,7 @@ sudopass = Responder(
 )
 
 # Build the deb packages and deposit them to ~/buildDir
-subprocess.run([f"osc-buildpkg -D {BUILDDIR}"], shell=True)
+subprocess.run([f"osc-buildpkg -D {builddir}"], shell=True)
 
 # Connect to the remote VM
 with Connection(IP_ADDR, user="vyatta", connect_kwargs={'password': 'vyatta'}) as c:
@@ -27,7 +31,7 @@ with Connection(IP_ADDR, user="vyatta", connect_kwargs={'password': 'vyatta'}) a
 
     # Copy the deb packages over to the VM
     # Can't specify directory using fabric https://github.com/fabric/fabric/issues/1998
-    debs = glob.glob(f'{BUILDDIR}/*.deb')
+    debs = glob.glob(f'{builddir}/*.deb')
     for deb in debs:
         c.put(deb, '/home/vyatta/debs')
 
