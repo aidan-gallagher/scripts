@@ -6,9 +6,13 @@ from invoke import Responder
 import glob
 from os.path import basename
 import os
+import argparse
 
-# IP address of the VM
-IP_ADDR = "192.168.252.50"
+# Get IP address of remote machine from the user
+parser = argparse.ArgumentParser()
+parser.add_argument('IP address', help='IP address of remote machine')
+args = vars(parser.parse_args())
+ip_addr = args['IP address']
 
 # Can't use a tilde in path name so store debs in /tmp rather than $HOME (https://github.com/fabric/fabric/issues/323)
 project = basename(os.getcwd())
@@ -23,8 +27,8 @@ sudopass = Responder(
 # Build the deb packages and deposit them to ~/buildDir
 subprocess.run([f"osc-buildpkg -D {builddir}"], shell=True)
 
-# Connect to the remote VM
-with Connection(IP_ADDR, user="vyatta", connect_kwargs={'password': 'vyatta'}) as c:
+# Connect to the remote machine
+with Connection(ip_addr, user='vyatta', connect_kwargs={'password': 'vyatta'}) as c:
 
     # Make folder on remote to deposit packages
     c.run('mkdir -p /home/vyatta/debs/')
