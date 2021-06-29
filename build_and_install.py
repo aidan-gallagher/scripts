@@ -17,7 +17,7 @@ ip_addr = args['IP address']
 # Set location to store deb files
 # Can't use a tilde in path name so store debs in /tmp rather than $HOME (https://github.com/fabric/fabric/issues/323)
 project = basename(os.getcwd())
-builddir = '/tmp/buildDir/' + project
+builddir = '/var/tmp/buildDir/' + project
 
 # Used to enter root password on remote system when prompted to
 sudopass = Responder(
