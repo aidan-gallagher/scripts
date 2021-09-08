@@ -1,0 +1,2 @@
+#!/usr/bin/dh-exec
+build_and_install/build_and_install.py /usr/bin/
