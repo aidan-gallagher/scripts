@@ -1,5 +1,7 @@
 # Overview
-Handy scripts for personal usage
+
+Personal miscellaneous scripts
 
 # Installation
-ToDo
+
+`pip install .`
