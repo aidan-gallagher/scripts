@@ -1,0 +1,148 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="681px" height="341px" viewBox="-0.5 -0.5 681 341" content="&lt;mxfile&gt;&lt;diagram id=&quot;GJo7_h978rFP8zbTEv6N&quot; name=&quot;Page-1&quot;&gt;7Vntb/I2EP9rkLZJoLzy8rGkz7oP7VS1mrZ+NIlJPBw7ckyBftjfvnNikwSHlT6taPUMCQH389nx3e/Od4aBH+XbG4GK7I4nmA48J9kO/OuB57n+LIQPhexqJJiNayAVJNFKDfBIXrAGHY2uSYLLjqLknEpSdMGYM4Zj2cGQEHzTVVty2n1qgVJsAY8xojb6J0lkVqNTb9Lgv2GSZubJ7nhWj+TIKGtLygwlfNOC/G8DPxKcy/pbvo0wVc4zfqnn/XpkdL8xgZk8aYLexzOia23cP6AdAWXwUQj+N/hvyFCO9X7lzjih3JCcIgbSfMmZfNQjDshxRmhyi3Z8rTZRShSvjDTPuCAvoI8oDLkAwLCQmmNv3NF4VDP1mgKXoHNvLHMPoDu07SjeolKa3XBKUVGSRbU/NTFHIiVszqXkuVayHad9+YyFxNsWpB15g3mOpdiBih4da1/uTJhredOEyJ73rBUeoacjU0dlul+5IQ6+aO6O8OhZPJZ8LWJcZUFiswc2ycr5gq9wxCkXgDNe00koPYAQJSkDkeKlmqacQiAfrjQseaEWK1BMWHpb6VwHDfKgjVUQh7lLWsV8RpIEM0UZl0iixT5+Ck6YrLwRzuEFPoucUTgIYeMRyG4jw0upCxlxBrYgUrGHgfwNVgHQx6tzMrGaSW98GpFG711EBhaRMEXmBbwv1pBWCRGXzHxfZnqzc2ZmaBGa4AVBrDIqXkGtKC/Z2XAbnEzuZ2TnxCLzloOnAbpDkFvskoyvJqPfTcZxTy5Oe+jzA+f9/O132/D3gHMu8YXA0wkMPpVBOwMv9fHdjH5mgfSmlwL5hgK5T4AvWSC9WU96HnCHWXKlLuEgxRSVJYlV6sjcpNXRgMZJ51puG9yyMOyLVo0JTJEkz93LfJ/V+gn3is8mW9zDi970YIn65qVntS/fryy0TzuzEJwvKZbWQhUJe7NP4sXBN/7U+V1E6dMfLw9PL+kmWA19+/L/ZrLwlsi/1PeR44RaflJ5MHImEy1fmwOuEnYt4R4LAlZgYTAGFqnlho5ZTyH1gm4YGKBZsZJ2belwzaPhpC/InS699nj3YPoiYefPutHiH0bLqWEXON2FgnOHnW8f+MUqHVblW5/4xw78VuS99eyPgX8VFNbpn8M5rh4z32RE4kfYgXrmRqCiOtvXLMHJx9VaK+k9u9a6vcfzB3RP/XzYPznEo2Itf4IyrCqW55jG6ucflxbfPcgucxa2afHPSUtg31VgnXWp2tsyA1vhczQa1QztRxaEGdyph7CMLdouHfArHfBZf7ztp9+z6MdbHK+rRrOsqY05W5IUvkB+GUzRHXmDK8ci/f/bM/93fn3JRrp/y3bl/O6GzRkF4azVsKmOy5++uWM7qbsyd5av2klNv7OTCsdu99SYhmftpIKe35ahkwJkSODtl1FVwX/Ukh1ODjqpnjN78jEVG8TmP9maveafbf/bvw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-34-101-212-26-0">
+            <rect x="34" y="101" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-261-212-26-0">
+            <rect x="34" y="261" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-261-212-26-0">
+            <rect x="434" y="261" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-101-212-26-0">
+            <rect x="434" y="101" width="212" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 30 96 L 30 70 L 250 70 L 250 96" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 30 96 L 30 122 L 250 122 L 250 96" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 30 96 L 250 96" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="139.5" y="87.5">
+                ~/Code/project-name
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-101-212-26-0)" font-size="12px">
+            <text x="35.5" y="113.5">
+                source code
+            </text>
+        </g>
+        <path d="M 30 256 L 30 230 L 250 230 L 250 256" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 30 256 L 30 282 L 250 282 L 250 256" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 30 256 L 250 256" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="139.5" y="247.5">
+                /tmp/builddir/project-name
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-261-212-26-0)" font-size="12px">
+            <text x="35.5" y="273.5">
+                debian packages
+            </text>
+        </g>
+        <path d="M 0 26 L 0 0 L 280 0 L 280 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 0 340 L 280 340 L 280 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 280 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="139.5" y="17.5">
+                Local Machine
+            </text>
+        </g>
+        <path d="M 400 26 L 400 0 L 680 0 L 680 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 400 26 L 400 340 L 680 340 L 680 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 400 26 L 680 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="539.5" y="17.5">
+                Remote Machine
+            </text>
+        </g>
+        <path d="M 430 256 L 430 230 L 650 230 L 650 256" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 430 256 L 430 282 L 650 282 L 650 256" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 430 256 L 650 256" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="539.5" y="247.5">
+                /tmp/builddir/project-name
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-261-212-26-0)" font-size="12px">
+            <text x="435.5" y="273.5">
+                debian packages
+            </text>
+        </g>
+        <path d="M 130 121 L 130 223.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 130 228.88 L 126.5 221.88 L 130 223.63 L 133.5 221.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 251.1 258 L 422.53 259.93" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 427.78 259.99 L 420.74 263.41 L 422.53 259.93 L 420.82 256.41 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 170px; margin-left: 131px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                dpkg-buildpackage
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="190" y="174" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    dpkg-buildpackage
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 128px; height: 1px; padding-top: 272px; margin-left: 281px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                c.put(deb, builddir)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="345" y="276" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    c.put(deb, builddir)
+                </text>
+            </switch>
+        </g>
+        <path d="M 430 96 L 430 70 L 650 70 L 650 96" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 430 96 L 430 122 L 650 122 L 650 96" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 430 96 L 650 96" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="539.5" y="87.5">
+                /usr/share/..., /usr/bin/... , etc
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-101-212-26-0)" font-size="12px">
+            <text x="435.5" y="113.5">
+                executables, config files, etc
+            </text>
+        </g>
+        <path d="M 530.98 228.02 L 531 131.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 531 126.12 L 534.5 133.12 L 531 131.37 L 527.5 133.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 68px; height: 1px; padding-top: 180px; margin-left: 541px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                dpkg -i *.deb
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="575" y="184" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    dpkg -i *.d...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
