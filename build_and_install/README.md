@@ -19,7 +19,7 @@ Occasionally the best way to test a change is to manual test on the real system.
 | username        | User of remote machine                                   | vyatta             |
 | password        | Password for remote machine                              | vyatta             |
 | builddir_prefix | Prefix for location to deposit debs (on remote and host) | /var/tmp/buildDir/ |
-| ip_addr         | IP address if the remote machine                         | None               |
+| ip_addr         | IP address of the remote machine                         | None               |
 
 ### Command line Arguments
 
